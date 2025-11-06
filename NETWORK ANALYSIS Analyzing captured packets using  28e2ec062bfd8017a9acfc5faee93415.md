@@ -1,6 +1,6 @@
 # NETWORK ANALYSIS : Analyzing captured packets using Wireshark.
 
----
+<img width="786" height="728" alt="image" src="https://github.com/user-attachments/assets/69d10ca0-f5df-40d8-bbae-51fb3405191f" />
 
 ## Lab overview
 
